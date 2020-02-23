@@ -8,8 +8,8 @@ public enum Model : String
     
     iPad3              = "iPad 3",
     iPad4              = "iPad 4",
-    iPad5              = "iPad 5",      // iPad 2017
-    iPad6              = "iPad 6",      // iPad 2018
+    iPad5              = "iPad 5",
+    iPad6              = "iPad 6",
     
     iPadAir            = "iPad Air",
     iPadAir2           = "iPad Air 2",
